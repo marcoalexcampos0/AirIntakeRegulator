@@ -116,33 +116,6 @@ void configModeRoutine () {
 
 }
 
-/*
-void buttonPressed(){
-  unsigned long startMillis;
-  unsigned long currentMillis;
-  const unsigned long period = 1000; //the value is a number of milliseconds, ie 1 second
-  int button1Status = 0;
-
-  button1Status = digitalRead(pinButton1); //Serial.println(button1Status);
-  if ( button1Status == 1 ) {
-    tone(pinSpeaker,400,50);
-    startMillis = millis();
-    //button1Status = digitalRead(pinButton1); Serial.println(button1Status);
-    while ( button1Status == 1 ) {
-      currentMillis = millis();
-      if ( currentMillis - startMillis >= period ) {
-        tone(pinSpeaker,400,50); delay(100); tone(pinSpeaker,400,50);
-        if ( configMode == 1 ) { configMode = 0; statusLED(0); } else { configMode(); }
-        while ( button1Status == 1 ) { button1Status = digitalRead(pinButton1); }//Serial.println(button1Status); }
-      }
-      button1Status = digitalRead(pinButton1); //Serial.println(button1Status);
-    }
-
-  }
-}
-*/
-
-
 void loop(){
 
   switch ( buttonPressed1() ) {
