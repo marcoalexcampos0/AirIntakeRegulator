@@ -15,4 +15,4 @@ Calibration routine:
 - Exit & save: Do a long press.
 
 ![image](https://github.com/marcoalexcampos0/AirIntakeRegulator/assets/58051181/aef28796-1ba2-4ed5-b010-be969d37990d)
-![image](https://github.com/marcoalexcampos0/AirIntakeRegulator/blob/main/Diagram.pdf)
+![image](https://github.com/marcoalexcampos0/AirIntakeRegulator/assets/58051181/3104c88c-d2dd-4cf4-ae52-a75cfd2253ed)
