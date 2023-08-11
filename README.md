@@ -8,7 +8,7 @@ It has a calibration routine that allows to set the max and min values of the se
 
 Calibration routine:
 
-- Enter calibration routing: Do a long press on the button until you ear a second beep
+- Enter calibration routine: Do a long press on the button until you ear a second beep
 - Set the max value: Press several times the button to get the servo into the max position
 - Change to min value: Do a long press
 - Set the min value: Press several times until it is on the min position
