@@ -13,3 +13,5 @@ Calibration routine:
 - Change to min value: Do a long press
 - Set the min value: Press several times until it is on the min position
 - Exit & save: Do a long press.
+
+![image](https://github.com/marcoalexcampos0/AirIntakeRegulator/assets/58051181/aef28796-1ba2-4ed5-b010-be969d37990d)
